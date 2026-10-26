@@ -9,7 +9,7 @@ This project compares two AI-assisted interface development approaches:
 ### 01 — Agentic AI Interface
 Built using **Vercel v0**
 
-🔗 **Live Demo:** startracker-6s6dna3j7-sof-hiron.vercel.app
+🔗 **Live Demo:** https://v0.app/sof-hiron/chat/startracker-VwDSJ6UP7QB
 
 ### 02 — Web Interface
 Generated using **Meta AI**
