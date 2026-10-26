@@ -9,7 +9,7 @@ This project compares two AI-assisted interface development approaches:
 ### 01 — Agentic AI Interface
 Built using **Vercel v0**
 
-🔗 **Live Demo:** https://v0.app/trisonics/chat/celestial-tracking-interface-loHKWASaQLO
+🔗 **Live Demo:** startracker-6s6dna3j7-sof-hiron.vercel.app
 
 ### 02 — Web Interface
 Generated using **Meta AI**
